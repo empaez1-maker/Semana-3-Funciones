@@ -1,0 +1,10 @@
+output/
+*.exe
+*.lnk
+desktop.ini
+etc/
+mingw64/
+usr/
+Microsoft VS Code/
+EATHAN-ESPE/
+nuevo/
